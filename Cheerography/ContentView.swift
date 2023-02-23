@@ -49,6 +49,8 @@ struct ContentView: View {
                 .cornerRadius(10.0)
                 
             }
+            
+            Text("Angelus Side")
 
             //Element 2/10
             Image("BlueFloor")
